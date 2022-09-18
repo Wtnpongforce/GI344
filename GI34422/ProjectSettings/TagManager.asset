@@ -7,11 +7,12 @@ TagManager:
   - Ground
   - checkPoint
   - Platform
+  - Key
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - PP

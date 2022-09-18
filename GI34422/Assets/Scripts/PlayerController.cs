@@ -8,6 +8,9 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float speed;
     [SerializeField] private float rotationSpeed;
 
+    public Transform keyFollowPoint;
+    public Key followingKey;
+
     void Update()
     {
         float horizontalInput = Input.GetAxis("Horizontal");

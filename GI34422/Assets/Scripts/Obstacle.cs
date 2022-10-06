@@ -50,10 +50,10 @@ public class Obstacle : MonoBehaviour
       if (other.gameObject.CompareTag("Player"))
       {
          thePlayer.transform.position = teleportTarget.transform.position;
-         this.Wait(2f, () =>
+         /*this.Wait(2f, () =>
          {
             //thePlayer.transform.position = teleportTarget.transform.position;
-         });
+         });*/
       }
    }
 }

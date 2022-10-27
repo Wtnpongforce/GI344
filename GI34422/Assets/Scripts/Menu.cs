@@ -9,6 +9,11 @@ public class Menu : MonoBehaviour
     {
         SceneManager.LoadScene("selection level");
     }
+
+    public void LoadLevel1()
+    {
+        SceneManager.LoadScene("level 1");
+    }
     public void Quit()
     {
         Application.Quit();

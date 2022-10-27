@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-7913335175323738355
+--- !u!114 &-6603645959435706942
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,17 +20,16 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Material.001 2
-  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
-  m_ValidKeywords:
+  m_Name: OnTop1 1
+  m_Shader: {fileID: -6465566751694194690, guid: 014762364d8e8ab418bf1b5eb50097db, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords:
   - _SPECULARHIGHLIGHTS_OFF
-  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
-  stringTagMap:
-    RenderType: Opaque
+  stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
@@ -111,6 +110,7 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
@@ -122,8 +122,10 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 1, g: 0.3066038, b: 0.3066038, a: 1}
-    - _Color: {r: 1, g: 0.30660376, b: 0.30660376, a: 1}
+    - _BaseColor: {r: 0.6419123, g: 0.8207547, b: 0.63105196, a: 1}
+    - _Bot_color: {r: 0.43329477, g: 0.6750683, b: 0.8584906, a: 0}
+    - _Color: {r: 0.6419123, g: 0.8207547, b: 0.6310519, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _Top_color: {r: 0.59388274, g: 0.93333334, b: 0.56078434, a: 0}
   m_BuildTextureStacks: []

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e3528cd1292f6a049bbd37accc2cafc5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cute Rabbit
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c225ade9f02834343a5b8acaf84349d9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

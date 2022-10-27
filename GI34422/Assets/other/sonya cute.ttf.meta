@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 29dbab0db83e5f742b496a4b8198bdcd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - sonya cute
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b08a5ab17d9e27b4aa27e87ad65b1c7a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
